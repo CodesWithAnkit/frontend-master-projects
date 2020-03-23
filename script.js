@@ -7,6 +7,9 @@ const projects = [
   },
   {
     name: 'single-price-grid-component-master'
+  },
+  {
+    name: 'signup-form-master'
   }
 ];
 
