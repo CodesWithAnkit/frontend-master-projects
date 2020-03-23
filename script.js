@@ -10,6 +10,9 @@ const projects = [
   },
   {
     name: 'signup-form-master'
+  },
+  {
+    name: 'base-apparel-coming-soon-master'
   }
 ];
 
