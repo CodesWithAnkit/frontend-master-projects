@@ -4,6 +4,9 @@ const projects = [
   },
   {
     name: 'ping-coming-soon-page-master'
+  },
+  {
+    name: 'single-price-grid-component-master'
   }
 ];
 
