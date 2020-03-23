@@ -1,6 +1,9 @@
 const projects = [
   {
     name: 'four-card-feature-section-master'
+  },
+  {
+    name: 'ping-coming-soon-page-master'
   }
 ];
 
